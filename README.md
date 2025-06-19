@@ -52,5 +52,3 @@ Debugging: Encountered a JSONDecodeError due to invalid or empty responses, whic
 Testing: Ran the script locally to verify functionality and adjusted the code based on error outputs.,
 Documentation: Created this README to document the process and guide future use or collaboration.,
 The project is still in an early stage, with plans to refine the code, add robust error handling, and potentially share it with the community.
-
-This README provides a comprehensive overview while leaving room for you to add specific details (e.g., your GitHub username, exact goals, or additional features). Let me know if you’d like to adjust or expand any section!
